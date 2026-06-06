@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-label="TEE concept art">
+  <rect width="900" height="640" fill="#050506"/>
+  <rect x="44" y="44" width="812" height="552" rx="28" fill="#101115" stroke="#2A2E35" stroke-width="3"/>
+  <path d="M450 104 610 166v136c0 116-66 204-160 268-94-64-160-152-160-268V166l160-62Z" fill="#050506" stroke="#D3A62D" stroke-width="10"/>
+  <path d="M414 446V260l36-54 36 54v186M398 446h104M405 272h90" stroke="#D3A62D" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M370 322c40-35 120-35 160 0-40 35-120 35-160 0Z" fill="#050506" stroke="#E8E0D0" stroke-width="8"/>
+  <circle cx="450" cy="322" r="18" fill="#A92817" stroke="#D3A62D" stroke-width="5"/>
+  <text x="450" y="555" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="46" fill="#E8E0D0" letter-spacing="6">TEE</text>
+  <text x="450" y="600" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#D3A62D" letter-spacing="4">WE ARE THE WATCHERS.</text>
+</svg>

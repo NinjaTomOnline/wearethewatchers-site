@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="CUSTOS social card">
+  <rect width="1200" height="630" fill="#050506"/>
+  <rect x="44" y="44" width="1112" height="542" fill="#101115" stroke="#D3A62D" stroke-width="3"/>
+  <circle cx="980" cy="150" r="84" fill="#A92817" opacity="0.32"/>
+  <text x="92" y="225" font-family="Impact, Arial Black, sans-serif" font-size="128" fill="#D3A62D" letter-spacing="4">CUSTOS</text>
+  <text x="96" y="328" font-family="Impact, Arial Black, sans-serif" font-size="72" fill="#E8E0D0" letter-spacing="5">WE ARE THE WATCHERS.</text>
+  <text x="100" y="410" font-family="Arial, sans-serif" font-size="34" fill="#A92817" letter-spacing="6">WE HOLD THE LINE.</text>
+  <text x="100" y="505" font-family="Consolas, monospace" font-size="24" fill="#69707A" letter-spacing="3">POWER NEEDS A WITNESS.</text>
+</svg>
