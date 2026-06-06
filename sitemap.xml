@@ -9,11 +9,23 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://wearethewatchers.com/mockup-qa.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://wearethewatchers.com/about.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://wearethewatchers.com/support.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/shipping.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/returns.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
