@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1800" viewBox="0 0 1800 1800">
+<defs></defs>
+<g transform="translate(330 80) scale(1.9 1.9)">
+<path d="M300 52 502 132v178c0 158-84 271-202 348C182 581 98 468 98 310V132L300 52Z" fill="#050506" stroke="#D3A62D" stroke-width="18"/>
+<path d="M248 530V248l52-78 52 78v282" fill="none" stroke="#D3A62D" stroke-width="16" stroke-linejoin="round"/>
+<path d="M226 530h148M236 264h128M254 332h92" stroke="#D3A62D" stroke-width="16" stroke-linecap="round"/>
+<path d="M185 352c50-52 180-52 230 0-50 52-180 52-230 0Z" fill="#050506" stroke="#E8E0D0" stroke-width="12"/>
+<circle cx="300" cy="352" r="31" fill="#A92817" stroke="#D3A62D" stroke-width="10"/>
+</g><text x="900" y="1640" text-anchor="middle" font-family="'Arial Bold', Arial, sans-serif" font-size="100" font-weight="900" letter-spacing="0.10em" fill="#D3A62D" >WATCHTOWER EYE</text>
+</svg>

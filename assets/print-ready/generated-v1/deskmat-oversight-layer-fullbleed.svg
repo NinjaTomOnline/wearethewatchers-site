@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5400" height="3600" viewBox="0 0 5400 3600">
+<defs><pattern id="grid" width="120" height="120" patternUnits="userSpaceOnUse"><path d="M120 0H0V120" fill="none" stroke="#D3A62D" stroke-opacity="0.10" stroke-width="3"/></pattern><radialGradient id="glow" cx="66%" cy="36%" r="50%"><stop offset="0" stop-color="#A92817" stop-opacity="0.38"/><stop offset="1" stop-color="#050506" stop-opacity="0"/></radialGradient></defs>
+<rect width="100%" height="100%" fill="#050506"/>
+
+<rect width="5400" height="3600" fill="url(#grid)"/>
+<rect width="5400" height="3600" fill="url(#glow)"/>
+<rect x="170" y="170" width="5060" height="3260" fill="none" stroke="#D3A62D" stroke-opacity="0.36" stroke-width="10"/>
+<g transform="translate(3650 580) scale(1.4666666666666666 1.4666666666666666)">
+<path d="M300 52 502 132v178c0 158-84 271-202 348C182 581 98 468 98 310V132L300 52Z" fill="#050506" stroke="#D3A62D" stroke-width="18"/>
+<path d="M248 530V248l52-78 52 78v282" fill="none" stroke="#D3A62D" stroke-width="16" stroke-linejoin="round"/>
+<path d="M226 530h148M236 264h128M254 332h92" stroke="#D3A62D" stroke-width="16" stroke-linecap="round"/>
+<path d="M185 352c50-52 180-52 230 0-50 52-180 52-230 0Z" fill="#050506" stroke="#E8E0D0" stroke-width="12"/>
+<circle cx="300" cy="352" r="31" fill="#A92817" stroke="#D3A62D" stroke-width="10"/>
+</g>
+<text x="520" y="690" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="270" font-weight="900" letter-spacing="0.20em" fill="#D3A62D" >CUSTOS</text>
+<text x="530" y="980" text-anchor="start" font-family="'Arial Bold', Arial, sans-serif" font-size="120" font-weight="900" letter-spacing="0.22em" fill="#E8E0D0" >OVERSIGHT LAYER</text>
+<text x="520" y="1510" text-anchor="start" font-family="Impact, 'Arial Black', sans-serif" font-size="210" font-weight="900" letter-spacing="0.04em" fill="#E8E0D0" >WE ARE THE WATCHERS.</text>
+<text x="520" y="1810" text-anchor="start" font-family="Impact, 'Arial Black', sans-serif" font-size="230" font-weight="900" letter-spacing="0.04em" fill="#A92817" >WE HOLD THE LINE.</text>
+<g font-family="Menlo, Consolas, monospace" font-weight="700" font-size="92" letter-spacing="0.08em">
+<text x="570" y="2290" fill="#E8E0D0">AGENT ACTION <tspan fill="#A92817">DETECTED</tspan></text>
+<text x="570" y="2460" fill="#E8E0D0">RISK LEVEL: <tspan fill="#A92817">ELEVATED</tspan></text>
+<text x="570" y="2630" fill="#E8E0D0">OVERSIGHT IS <tspan fill="#D3A62D">STRENGTH</tspan>.</text>
+<text x="570" y="2800" fill="#E8E0D0">INTEGRITY: <tspan fill="#A92817">PROTECTED</tspan></text>
+<text x="3330" y="2290" fill="#E8E0D0">AGENT STATUS: <tspan fill="#D3A62D">ACTIVE</tspan></text>
+<text x="3330" y="2460" fill="#E8E0D0">AUTOMATION. HUMANS.</text>
+<text x="3330" y="2630" fill="#E8E0D0">COLLIDER CHANGES: <tspan fill="#A92817">BLOCKED</tspan></text>
+<text x="3330" y="2800" fill="#E8E0D0">ROLLBACK SNAPSHOT: <tspan fill="#A92817">READY</tspan></text>
+</g>
+<text x="2700" y="3265" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="128" font-weight="900" letter-spacing="0.14em" fill="#D3A62D" >TRUST, BUT VERIFY.</text>
+
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="2400" viewBox="0 0 2400 2400">
+<defs></defs>
+<circle cx="1200" cy="1200" r="1080" fill="#050506" stroke="#D3A62D" stroke-width="54"/><g transform="translate(600 260) scale(2.0 2.0)">
+<path d="M300 65 480 140v170c0 135-72 242-180 315C192 552 120 445 120 310V140Z" fill="#050506" stroke="#D3A62D" stroke-width="20"/>
+<path d="M255 520V260l45-70 45 70v260" fill="none" stroke="#D3A62D" stroke-width="20" stroke-linejoin="round"/>
+<path d="M230 330c52-46 88-60 140 0-52 46-88 60-140 0Z" fill="#050506" stroke="#E8E0D0" stroke-width="16"/>
+<circle cx="300" cy="330" r="28" fill="#A92817" stroke="#D3A62D" stroke-width="8"/>
+</g><text x="1200" y="1840" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="190" font-weight="900" letter-spacing="0.16em" fill="#D3A62D" >CUSTOS</text><text x="1200" y="2065" text-anchor="middle" font-family="'Arial Bold', Arial, sans-serif" font-size="94" font-weight="900" letter-spacing="0.12em" fill="#E8E0D0" >WE HOLD THE LINE</text>
+</svg>
