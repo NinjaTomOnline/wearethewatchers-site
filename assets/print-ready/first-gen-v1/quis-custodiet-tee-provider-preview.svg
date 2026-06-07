@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1400" viewBox="0 0 1800 1400">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="25%" r="72%"><stop offset="0" stop-color="#1a1511"/><stop offset="0.55" stop-color="#08090b"/><stop offset="1" stop-color="#000"/></radialGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="28" stdDeviation="32" flood-color="#000" flood-opacity="0.65"/></filter>
+  </defs>
+  <rect width="1800" height="1400" fill="url(#g)"/>
+  <rect x="95" y="95" width="1610" height="1210" rx="64" fill="#101115" stroke="#2a2e35" stroke-width="10" filter="url(#shadow)"/>
+  <rect x="145" y="145" width="1510" height="1110" rx="26" fill="none" stroke="#d3a62d" stroke-opacity="0.22" stroke-width="3"/>
+  <text x="170" y="225" font-family="Menlo, Consolas, monospace" font-size="34" letter-spacing="0.2em" fill="#D3A62D">DROP 1 / FIRST-GEN / 02</text>
+  <path d="M900 270 L1110 380 L1050 820 L900 950 L750 820 L690 380 Z" fill="#050506" stroke="#D3A62D" stroke-width="22"/>
+  <path d="M720 570 Q900 435 1080 570 Q900 705 720 570 Z" fill="#050506" stroke="#E8E0D0" stroke-width="20"/>
+  <circle cx="900" cy="570" r="56" fill="#A92817" stroke="#D3A62D" stroke-width="18"/>
+  <text x="900" y="480" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="112" font-weight="900" letter-spacing="0.04em" fill="#E8E0D0">QUIS CUSTODIET?</text>
+  <text x="900" y="1095" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="42" font-weight="900" letter-spacing="0.16em" fill="#D3A62D">WHO WATCHES?</text>
+  <text x="900" y="1200" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="88" font-weight="900" letter-spacing="0.22em" fill="#D3A62D">CUSTOS</text>
+  <text x="900" y="1268" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="28" letter-spacing="0.16em" fill="#69707A">T-SHIRT / $34 TARGET</text>
+</svg>
