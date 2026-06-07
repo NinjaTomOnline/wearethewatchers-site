@@ -40,4 +40,40 @@
     <loc>https://wearethewatchers.com/privacy.html</loc>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://wearethewatchers.com/product-details.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/oath.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/launch-calendar.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/product-watchers-tee.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/product-hold-line-hoodie.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/product-custos-hat.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/product-oversight-desk-mat.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/product-watchtower-sticker-pack.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wearethewatchers.com/product-patch-badge.html</loc>
+    <priority>0.7</priority>
+  </url>
 </urlset>
